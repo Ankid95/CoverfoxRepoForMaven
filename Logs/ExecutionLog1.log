@@ -1,0 +1,128 @@
+2024-01-11 01:15:42,016 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-11 01:15:43,118 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-11 01:15:47,371 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-11 01:15:50,683 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-11 01:15:53,773 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-11 01:15:56,907 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-11 01:16:00,054 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-11 01:16:03,219 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-11 01:22:16,435 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-11 01:22:17,178 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-11 01:22:21,417 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-11 01:22:24,691 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-11 01:22:27,788 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-11 01:22:30,885 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-11 01:22:34,007 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-11 01:22:37,102 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-11 01:24:35,107 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-11 01:24:35,982 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-11 01:24:40,141 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-11 01:24:43,372 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-11 01:24:46,495 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-11 01:24:49,650 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-11 01:24:52,780 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-11 01:24:55,889 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-11 01:25:09,007 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-11 01:25:32,076 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-11 09:05:57,720 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-11 09:05:59,274 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-11 09:06:03,603 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-11 09:06:06,946 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-11 09:06:10,068 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-11 09:06:13,263 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-11 09:06:16,398 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-11 09:06:19,561 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-11 09:06:32,746 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-11 09:06:55,831 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:01:51,909 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:01:52,890 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:01:57,003 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:02:00,299 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:02:03,424 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:02:06,627 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:02:09,757 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:02:12,885 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:05:27,480 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:05:28,680 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:05:32,770 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:05:36,081 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:05:39,203 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:05:42,441 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:05:45,595 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:05:48,716 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:06:01,823 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:06:24,878 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:18:22,561 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:18:25,023 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:18:29,157 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:18:32,400 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:18:35,518 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:18:38,738 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:18:41,924 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:18:45,039 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:18:58,144 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:19:13,210 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:19:14,392 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:19:18,697 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:19:21,203 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:19:21,887 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:19:24,953 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:19:28,046 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:19:31,137 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:19:34,448 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:19:47,583 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:20:10,650 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:25:56,336 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:25:57,536 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:27:15,350 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:27:16,251 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:30:31,470 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:30:32,140 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:30:36,268 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:30:40,481 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:30:43,546 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:30:46,716 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:30:49,895 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:30:52,964 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:32:52,241 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:32:53,121 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:32:57,213 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:33:01,301 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:33:04,401 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:33:07,570 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:33:10,738 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:33:13,829 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:33:26,902 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:33:49,952 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:35:52,665 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:35:53,385 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:37:34,380 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:37:35,066 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:37:39,166 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:37:43,267 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:37:46,350 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:37:49,517 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:37:52,672 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:37:55,763 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:38:08,829 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:38:31,885 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:40:26,582 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:40:28,975 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:40:33,177 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:40:37,510 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:40:40,640 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:40:43,862 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:40:47,094 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:40:50,248 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:41:03,335 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:41:26,388 [main] FATAL coverfoxFtestngclass - fatal for logger
+2024-01-17 01:43:21,559 [main] INFO coverfoxFtestngclass - brwserlunching
+2024-01-17 01:43:22,317 [main] INFO coverfoxFtestngclass - clicking on gender button
+2024-01-17 01:43:26,506 [main] INFO coverfoxFtestngclass - clicking on next button
+2024-01-17 01:43:30,656 [main] INFO coverfoxFtestngclass - selecting age
+2024-01-17 01:43:33,737 [main] INFO coverfoxFtestngclass - clickonNextbuttononmemberpage
+2024-01-17 01:43:36,943 [main] INFO coverfoxFtestngclass - EnterPincodeOnHealth_plan_Page
+2024-01-17 01:43:40,140 [main] INFO coverfoxFtestngclass - EnterMobNoOnHealth_plan_Page
+2024-01-17 01:43:43,228 [main] INFO coverfoxFtestngclass - ClickOnContinueButton
+2024-01-17 01:43:56,301 [main] ERROR coverfoxFtestngclass - tc fail
+2024-01-17 01:44:19,351 [main] FATAL coverfoxFtestngclass - fatal for logger
