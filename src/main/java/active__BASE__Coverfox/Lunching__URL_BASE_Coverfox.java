@@ -5,7 +5,7 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Reporter;
+
 
 public class Lunching__URL_BASE_Coverfox
 {   protected static WebDriver driver;
@@ -15,11 +15,11 @@ public class Lunching__URL_BASE_Coverfox
 		driver =new ChromeDriver();
 		driver.get("https://www.coverfox.com/");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(7));
-		Reporter.log("opening the browser", true);
+		//Reporter.log("opening the browser", true);
 	}
 
 	public static void close__Browser()
-	{   Reporter.log("closing the browser", true);
+	{  // Reporter.log("closing the browser", true);
 		driver.close();
 	}
 	
