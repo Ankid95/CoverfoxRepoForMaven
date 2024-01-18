@@ -146,3 +146,15 @@
 2024-01-18 15:43:46,300 - coverfoxFtestngclass -INFO - EnterPincodeOnHealth_plan_Page
 2024-01-18 15:43:49,744 - coverfoxFtestngclass -INFO - EnterMobNoOnHealth_plan_Page
 2024-01-18 15:43:52,836 - coverfoxFtestngclass -INFO - ClickOnContinueButton
+2024-01-18 17:38:29,889 - coverfoxFtestngclass -INFO - brwserlunching
+2024-01-18 17:38:42,586 - coverfoxFtestngclass -INFO - clicking on gender button
+2024-01-18 17:44:40,473 - coverfoxFtestngclass -INFO - brwserlunching
+2024-01-18 17:44:41,093 - coverfoxFtestngclass -INFO - clicking on gender button
+2024-01-18 17:44:45,271 - coverfoxFtestngclass -INFO - clicking on next button
+2024-01-18 17:44:52,263 - coverfoxFtestngclass -INFO - selecting age
+2024-01-18 17:44:55,455 - coverfoxFtestngclass -INFO - clickonNextbuttononmemberpage
+2024-01-18 17:44:58,927 - coverfoxFtestngclass -INFO - EnterPincodeOnHealth_plan_Page
+2024-01-18 17:45:02,437 - coverfoxFtestngclass -INFO - EnterMobNoOnHealth_plan_Page
+2024-01-18 17:45:06,042 - coverfoxFtestngclass -INFO - ClickOnContinueButton
+2024-01-18 17:45:19,330 - coverfoxFtestngclass -ERROR - tc fail
+2024-01-18 17:45:42,867 - coverfoxFtestngclass -FATAL - fatal for logger
